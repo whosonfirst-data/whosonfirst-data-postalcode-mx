@@ -1,0 +1,52 @@
+{
+  "id": 538951305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"MX",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85686591,
+        102191575,
+        85633293,
+        101997005,
+        102074587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"24552763"
+    },
+    "wof:country":"MX",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633293,
+            "county_id":102074587,
+            "locality_id":101997005,
+            "postalcode_id":538951305,
+            "region_id":85686591
+        }
+    ],
+    "wof:id":538951305,
+    "wof:lastmodified":1460095271,
+    "wof:name":"633",
+    "wof:parent_id":"101997005",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
